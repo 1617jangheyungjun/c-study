@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "첫 c#파일/1.0.0": {
+        "runtime": {
+          "첫 c#파일.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "첫 c#파일/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
