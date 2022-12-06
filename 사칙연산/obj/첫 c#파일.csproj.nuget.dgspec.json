@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plant\\Desktop\\c# 공부\\첫 c#파일\\첫 c#파일.csproj": {}
+    "C:\\Users\\plant\\Desktop\\c# 공부\\사칙연산\\첫 c#파일.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plant\\Desktop\\c# 공부\\첫 c#파일\\첫 c#파일.csproj": {
+    "C:\\Users\\plant\\Desktop\\c# 공부\\사칙연산\\첫 c#파일.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plant\\Desktop\\c# 공부\\첫 c#파일\\첫 c#파일.csproj",
+        "projectUniqueName": "C:\\Users\\plant\\Desktop\\c# 공부\\사칙연산\\첫 c#파일.csproj",
         "projectName": "첫 c#파일",
-        "projectPath": "C:\\Users\\plant\\Desktop\\c# 공부\\첫 c#파일\\첫 c#파일.csproj",
+        "projectPath": "C:\\Users\\plant\\Desktop\\c# 공부\\사칙연산\\첫 c#파일.csproj",
         "packagesPath": "C:\\Users\\plant\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plant\\Desktop\\c# 공부\\첫 c#파일\\obj\\",
+        "outputPath": "C:\\Users\\plant\\Desktop\\c# 공부\\사칙연산\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -13,3 +13,18 @@ C:\Users\plant\Desktop\c# 공부\첫 c#파일\obj\Debug\net6.0\refint\첫 c#파�
 C:\Users\plant\Desktop\c# 공부\첫 c#파일\obj\Debug\net6.0\첫 c#파일.pdb
 C:\Users\plant\Desktop\c# 공부\첫 c#파일\obj\Debug\net6.0\첫 c#파일.genruntimeconfig.cache
 C:\Users\plant\Desktop\c# 공부\첫 c#파일\obj\Debug\net6.0\ref\첫 c#파일.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\refint\첫 c#파일.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.pdb
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net6.0\첫 c#파일.exe
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net6.0\첫 c#파일.deps.json
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net6.0\첫 c#파일.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net6.0\첫 c#파일.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net6.0\첫 c#파일.pdb
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\첫 c#파일.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net6.0\ref\첫 c#파일.dll
