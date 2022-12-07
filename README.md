@@ -25,7 +25,7 @@
 * 나머지
      %
 
-# WriteLine과 Write의 차이
+## WriteLine과 Write의 차이
 
 * WriteLine은(는) 그 한줄에 써주는 것 이다. 따라서 WriteLine을 여러번 사용하면 파이썬의 print처럼 줄바꿈이 생긴다.
 
