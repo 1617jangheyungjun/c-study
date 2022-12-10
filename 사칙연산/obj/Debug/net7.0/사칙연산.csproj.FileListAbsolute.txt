@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net7.0\사칙연산.exe
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net7.0\사칙연산.deps.json
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net7.0\사칙연산.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net7.0\사칙연산.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\bin\Debug\net7.0\사칙연산.pdb
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\refint\사칙연산.dll
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.pdb
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\사칙연산.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\사칙연산\obj\Debug\net7.0\ref\사칙연산.dll

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/사칙연산.csproj",
+                "${workspaceFolder}/변수/변수.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/사칙연산.csproj",
+                "${workspaceFolder}/변수/변수.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/사칙연산.csproj"
+                "${workspaceFolder}/변수/변수.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
