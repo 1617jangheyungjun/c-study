@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\plant\\Desktop\\c# 공부\\변수\\변수.csproj",
-      "projectName": "변수",
-      "projectPath": "C:\\Users\\plant\\Desktop\\c# 공부\\변수\\변수.csproj",
+      "projectUniqueName": "C:\\Users\\plant\\Desktop\\c# 공부\\자료형\\자료형.csproj",
+      "projectName": "자료형",
+      "projectPath": "C:\\Users\\plant\\Desktop\\c# 공부\\자료형\\자료형.csproj",
       "packagesPath": "C:\\Users\\plant\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\plant\\Desktop\\c# 공부\\변수\\obj\\",
+      "outputPath": "C:\\Users\\plant\\Desktop\\c# 공부\\자료형\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

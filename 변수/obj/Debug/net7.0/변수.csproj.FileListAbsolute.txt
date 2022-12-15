@@ -13,3 +13,18 @@ C:\Users\user\Desktop\c# 공부해라 쉬지말고\변수\obj\Debug\net7.0\refin
 C:\Users\user\Desktop\c# 공부해라 쉬지말고\변수\obj\Debug\net7.0\변수.pdb
 C:\Users\user\Desktop\c# 공부해라 쉬지말고\변수\obj\Debug\net7.0\변수.genruntimeconfig.cache
 C:\Users\user\Desktop\c# 공부해라 쉬지말고\변수\obj\Debug\net7.0\ref\변수.dll
+C:\Users\plant\Desktop\c# 공부\변수\bin\Debug\net7.0\변수.exe
+C:\Users\plant\Desktop\c# 공부\변수\bin\Debug\net7.0\변수.deps.json
+C:\Users\plant\Desktop\c# 공부\변수\bin\Debug\net7.0\변수.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\변수\bin\Debug\net7.0\변수.dll
+C:\Users\plant\Desktop\c# 공부\변수\bin\Debug\net7.0\변수.pdb
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.dll
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\refint\변수.dll
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.pdb
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\변수.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\변수\obj\Debug\net7.0\ref\변수.dll
