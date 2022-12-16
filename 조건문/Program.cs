@@ -1,4 +1,5 @@
-﻿int one = 10;
+﻿
+int one = 10;
 int two = 10;
 //if문
 if(one == two)
@@ -66,4 +67,34 @@ switch (day)
         break;
     
     
+}
+
+Console.WriteLine("월을 입력해 주세요.");
+int inputMonth = int.Parse(Console.ReadLine());
+ 
+switch (inputMonth)
+{
+    case 1:
+    case 2:
+    case 12:
+        Console.WriteLine("겨울 입니다.");
+        break;
+    case 3:
+    case 4:
+    case 5:
+        Console.WriteLine("봄 입니다.");
+        break;
+    case 6:
+    case 7:
+    case 8:
+        Console.WriteLine("여릅 입니다.");
+        break;
+    case 9:
+    case 10:
+    case 11:
+        Console.WriteLine("가을 입니다.");
+        break;
+    default:
+        Console.WriteLine("달은 1월부터 12월 까지 있습니다.");
+        break;
 }
