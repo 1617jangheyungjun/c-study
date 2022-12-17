@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\메서드\bin\Debug\net7.0\메서드.exe
+C:\Users\plant\Desktop\c# 공부\메서드\bin\Debug\net7.0\메서드.deps.json
+C:\Users\plant\Desktop\c# 공부\메서드\bin\Debug\net7.0\메서드.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\메서드\bin\Debug\net7.0\메서드.dll
+C:\Users\plant\Desktop\c# 공부\메서드\bin\Debug\net7.0\메서드.pdb
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.dll
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\refint\메서드.dll
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.pdb
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\메서드.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\메서드\obj\Debug\net7.0\ref\메서드.dll
