@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\인터페이스\bin\Debug\net7.0\인터페이스.exe
+C:\Users\plant\Desktop\c# 공부\인터페이스\bin\Debug\net7.0\인터페이스.deps.json
+C:\Users\plant\Desktop\c# 공부\인터페이스\bin\Debug\net7.0\인터페이스.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\인터페이스\bin\Debug\net7.0\인터페이스.dll
+C:\Users\plant\Desktop\c# 공부\인터페이스\bin\Debug\net7.0\인터페이스.pdb
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.dll
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\refint\인터페이스.dll
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.pdb
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\인터페이스.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\인터페이스\obj\Debug\net7.0\ref\인터페이스.dll
