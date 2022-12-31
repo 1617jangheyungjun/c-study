@@ -199,3 +199,132 @@ interface 인터페이스이름
 * 모든 멤버는 public으로 접근 권한이 기본으로 지정됩니다.
 * 몸통이 정의되어있지 않은 추상적인 멤버를 가집니다.
 * 인터페이스는 다른 클래스를 상속하거나 클래스에서 인터페이스 하나를 차례대로 상속할 수 있습니다.
+
+# 자료구조
+
+## 컬렉션이란?
+**같은 겅격을 띈 데이터의 모음을 담는 자료구조**
+
+## 컬렉션의 종류
+* **public**
+
+* **abstract**
+
+* **class**
+
+* **array**
+
+* **list**
+
+## 선형구조와 비선형구조
+* **선형구조**
+     * ArrayList
+     * Queue
+     * Stack
+     * Hashtable
+* **비선형구조**
+     * Tree
+     * Gragh
+* **단순구조**
+     * 정수
+     * 실수
+     * 문자
+     * 문자열
+* **파일구조**
+
+## 자료구조를 사용하는 이유 
+***자료구조*는 데이터를 체계적으로 저장하고 효율적으로 활용하기위해 사용한다.**
+
+## ArrayList
+**배열과 닮은 컬렉션**
+[]연산자 사용하고 특정위치에 있는 요소의 데이터를 임의로 할당할 수 있음
+
+## ArrayList 사용법
+***ArrayList*를 사용하기 위해서는 가장 위에있는 using을 하나더 추가해줘야한다** 
+```c#
+using System;
+using System.Collections;
+namespace ProjectArrayList
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            ArrayList list = new ArrayList();
+            for(int i = 0; i < 5; i++)
+            {
+                list.Add(i); // Add는 list 값을 넣어줄 수 있습니다.
+            }
+            Console.WriteLine("추가");
+            foreach(object obj in list)
+                Console.WriteLine($"{obj}"); //list를 foreach문을 통해 출력
+            
+            list.RemoveAt(2);//2번째 배열의 값을 2로 RemoveAt을 통해 삭제
+            Console.WriteLine("삭제");
+            foreach(object obj in list)
+                Console.WriteLine($"{obj}");
+            Console.WriteLine();
+            Console.WriteLine("변경");
+            list.Insert(2,5);//2번째 배열의 값을 5로 변경
+            foreach(object obj in list)
+                Console.WriteLine($"{obj}");
+            Console.WriteLine();
+
+            for(int i = 0; i < list.Count; i ++)
+                Console.WriteLine($"{list[i]}");
+            Console.WriteLine();
+            
+        }
+    }
+
+}
+```
+## 헤시테이블
+***헤시테이블*은 파이썬의 딕셔너리와 같은개념이다.**
+
+## stack
+
+#### 큐, 스택
+* **큐란?**
+     * 마트의 상품구매의 대기열 같은 방식을 큐라고 한다.**(큐 : 대기열)**
+* **스택이란?**
+     * 프링글스 과자를 쏟으면 마지막에 들어간 과자가 가장 먼저나온는 것처럼 **선입선출의 구조를 가지는 것이 스택이다**
+
+## 인덱서
+***인덱서*는 베열의 값을 불러오거나 할당할때에 사용함**
+
+## 인덱서 사용법
+```c#
+class 클래스명
+{
+     한정자 인덱서형식 this[형식 식별자]
+     {
+          get
+          {
+               index를 이용해 내부데이터 반환
+          }
+          set
+          {
+               index를 이용해 내부 데이터 할당
+          }
+     }
+}
+```
+# 추상화
+***추상화*란 특정 세부정보를 숨기고 사용자에게 필수 정보만 표시**
+## 추상화 종류
+* 인터페이스
+* 추상클래스
+
+
+## 추상클래스
+**객체화가 가능하다**
+
+## 추상클래스 사용방법
+```c#
+abstract class 클래스 이름
+{
+     클래스와 동일하게 구현
+}
+```
