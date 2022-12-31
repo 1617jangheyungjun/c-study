@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\추상클래스\bin\Debug\net7.0\추상클래스.exe
+C:\Users\plant\Desktop\c# 공부\추상클래스\bin\Debug\net7.0\추상클래스.deps.json
+C:\Users\plant\Desktop\c# 공부\추상클래스\bin\Debug\net7.0\추상클래스.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\추상클래스\bin\Debug\net7.0\추상클래스.dll
+C:\Users\plant\Desktop\c# 공부\추상클래스\bin\Debug\net7.0\추상클래스.pdb
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.dll
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\refint\추상클래스.dll
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.pdb
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\추상클래스.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\추상클래스\obj\Debug\net7.0\ref\추상클래스.dll
