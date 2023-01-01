@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\프로퍼티\bin\Debug\net7.0\프로퍼티.exe
+C:\Users\plant\Desktop\c# 공부\프로퍼티\bin\Debug\net7.0\프로퍼티.deps.json
+C:\Users\plant\Desktop\c# 공부\프로퍼티\bin\Debug\net7.0\프로퍼티.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\프로퍼티\bin\Debug\net7.0\프로퍼티.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\bin\Debug\net7.0\프로퍼티.pdb
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\refint\프로퍼티.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.pdb
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\프로퍼티.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\obj\Debug\net7.0\ref\프로퍼티.dll

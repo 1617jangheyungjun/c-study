@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      ".더줄이기/1.0.0": {
+        "runtime": {
+          ".더줄이기.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    ".더줄이기/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

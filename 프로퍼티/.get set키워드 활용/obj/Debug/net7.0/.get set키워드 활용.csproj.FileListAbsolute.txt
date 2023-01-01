@@ -1,0 +1,15 @@
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\bin\Debug\net7.0\.get set키워드 활용.exe
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\bin\Debug\net7.0\.get set키워드 활용.deps.json
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\bin\Debug\net7.0\.get set키워드 활용.runtimeconfig.json
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\bin\Debug\net7.0\.get set키워드 활용.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\bin\Debug\net7.0\.get set키워드 활용.pdb
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.csproj.AssemblyReference.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.AssemblyInfoInputs.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.AssemblyInfo.cs
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.csproj.CoreCompileInputs.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\refint\.get set키워드 활용.dll
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.pdb
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\.get set키워드 활용.genruntimeconfig.cache
+C:\Users\plant\Desktop\c# 공부\프로퍼티\.get set키워드 활용\obj\Debug\net7.0\ref\.get set키워드 활용.dll
